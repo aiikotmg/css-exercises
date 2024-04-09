@@ -1,0 +1,27 @@
+.num1, .num3, .num5 {
+  background-color: pink;
+  
+}
+
+.num1 {
+  font-size: 25px;
+}
+
+#num2 {
+  color: blue;
+  font-size: 45px;  
+}
+
+.num3 {
+  font-size: 32px;
+}
+
+#num4 {
+  font-size: 30px;
+  font-weight: 700;
+  background-color: lightgreen;
+}
+
+.num5 {
+  font-size: 25px
+}
