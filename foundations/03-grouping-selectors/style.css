@@ -1,0 +1,16 @@
+
+.topButton, .bottButton {
+  font-size: 28px;
+  font-family: Helvetica, "New Times Roman", sans-serif;
+  
+}
+.topButton {
+  background-color: black;
+  color: white;
+  
+}
+
+.bottButton {
+  background-color: yellow;
+  
+}
